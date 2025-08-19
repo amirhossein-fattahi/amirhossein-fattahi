@@ -17,7 +17,6 @@
 - 🌍 Visit my webpage: [amirhossein-fattahi.github.io](https://amirhossein-fattahi.github.io)  
 - 📫 Reach me at: **amirhossein.fattahi98@gmail.com**  
 
----
 
 ## 🔗 Connect with Me  
 
@@ -26,7 +25,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amirhossein-fattahi)  
 [![Website](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://amirhossein-fattahi.github.io)  
 
----
 
 ## 🛠 Languages, Tools, and Technologies  
 
@@ -46,11 +44,17 @@
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 </p>
 
----
-
+<!--
 ## 📊 GitHub Stats  
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhossein-fattahi&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-fattahi&layout=compact&theme=tokyonight)  
 
----
+-->
+## ☕ Support  
+
+If you like my work, consider supporting me:  
+
+<a href="https://www.buymeacoffee.com/amirhossei6" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+</a>
