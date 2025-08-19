@@ -5,7 +5,8 @@
 
 ---
 <!--
-**amirhossein-fattahi/amirhossein-fattahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+%**amirhossein-fattahi/amirhossein-fattahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🌱 I'm currently working on my master's degree thesis "Double Pendulum RL-based Controller"
 - 🤝 I'm looking to collaborate on projects on Robotics and Machine Learning algorithms
@@ -21,4 +22,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
