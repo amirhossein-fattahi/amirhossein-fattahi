@@ -1,9 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Amirhossein Fattahi
 
+🎓 Graduate Student in Control Systems Engineering | 🤖 Robotics & AI Enthusiast  
+📍 Currently Based in Padova, Italy  
+
+---
 <!--
 **amirhossein-fattahi/amirhossein-fattahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I'm currently working on my master's degree thesis "Double Pendulum RL-based Controller"
+- 🤝 I'm looking to collaborate on projects on Robotics and Machine Learning algorithms
+- 📝 I write articles & notes here, on my linkedin: [![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ahfattahi)](https://linkedin.com/in/ahfattahi)
+- 💬 Ask me about: Reinforcement Learning, Robotics, AI for Control Systems
+- 📫 Reach me at: [your email]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
