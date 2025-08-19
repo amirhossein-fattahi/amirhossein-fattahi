@@ -10,9 +10,10 @@
 
 - 🌱 I'm currently working on my master's degree thesis "Double Pendulum RL-based Controller"
 - 🤝 I'm looking to collaborate on projects on Robotics and Machine Learning algorithms
-- 📝 I write articles & notes here, on my linkedin: [![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ahfattahi)](https://linkedin.com/in/ahfattahi)
-- 💬 Ask me about: Reinforcement Learning, Robotics, AI for Control Systems
-- 📫 Reach me at: [your email]
+- 📝 I write articles & notes here, on my linkedin: [![Linkedin Badge](https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ahfattahi)](https://linkedin.com/in/ahfattahi)
+- 💬 Ask me about: Machine Learning, Reinforcement Learning, Robotics, Control Systems
+- 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/-amirhossein.fattahi98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amirhossein.fattahi98@gmail.com)](mailto:amirhossein.fattahi98@gmail.com)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
