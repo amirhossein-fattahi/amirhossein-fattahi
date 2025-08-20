@@ -3,7 +3,7 @@
 🎓 Graduate Student in Control Systems Engineering | 🤖 Robotics & AI Enthusiast  
 📍 Based in Padova, Italy  
 
-<p align="right"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amirhossein-fattahi&label=Profile%20views&color=0e75b6&style=flat" alt="amirhossein-fattahi" /> 
 </p>
 
@@ -46,12 +46,12 @@
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 </p>
 
-
+<!--
 ## 📊 GitHub Stats  
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhossein-fattahi&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-fattahi&layout=compact&theme=tokyonight)  
-
+-->
 
 ## ☕ Support  
 
