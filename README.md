@@ -1,6 +1,6 @@
 # Hi 👋, I'm Amir Fattahi  
 
-🎓 Postraduate Student in Control Systems Engineering | 🤖 Robotics & AI Enthusiast  
+🎓 Postgraduate Student in Control Systems Engineering | 🤖 Robotics & AI Enthusiast  
 📍 Currently based in Padova, Italy  
 
 <p align="left"> 
