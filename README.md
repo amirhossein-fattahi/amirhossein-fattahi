@@ -1,64 +1,111 @@
-# Hi 👋, I'm Amir Fattahi  
+# Hi, I'm Amir Fattahi 👋
 
-🎓 Postgraduate Student in Control Systems Engineering | 🤖 Robotics & AI Enthusiast  
-📍 Currently based in Padova, Italy  
+🤖 **Robotics & Control Researcher**\
+🎓 MSc in Control Systems Engineering --- University of Padua, Italy\
+📍 Padua, Italy
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=amirhossein-fattahi&label=Profile%20views&color=0e75b6&style=flat" alt="amirhossein-fattahi" /> 
-</p>
+My research interests lie at the intersection of:
 
----
+-   🤖 Robot Learning
+-   🎮 Reinforcement Learning for Robotics
+-   ⚙️ Learning-Based Control
+-   🧠 Physics-Informed Machine Learning
+-   🚁 Autonomous and Safe Robotic Systems
 
-## 🌐 About Me  
-- 🌱 I'm currently working on: Reinforcement Learning Based Control Algorithms for Robotics  
-- 🤝 I'm looking to collaborate on: Robotics, AI-driven Control Systems, Safe Autonomy  
-- 📝 Sometimes I write notes and share insights on my [LinkedIn](https://www.linkedin.com/in/ahfattahi/)  
-- 💬 Ask me about: **Reinforcement Learning, Control Systems, Robotics, AI**  
-- 🌍 Visit my webpage: [amirhossein-fattahi.github.io](https://amirhossein-fattahi.github.io)  
-- 📫 Reach me at: **amirhossein.fattahi98@gmail.com**  
+------------------------------------------------------------------------
 
+## 🔬 Research
 
-## 🔗 Connect with Me  
+I work on learning-based and model-based methods for nonlinear robotic
+systems, with a focus on combining physical knowledge with data-driven
+approaches.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahfattahi/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:amirhossein.fattahi98@gmail.com)  
-[![Website](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://amirhossein-fattahi.github.io)  
+### MSc Thesis
 
+**Learning-Based Energy Control of Underactuated Robots**
 
-## 🛠 Languages, Tools, and Technologies  
+Main topics:
 
-<p>
-  <img src="https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks" />
-  <img src="https://img.shields.io/badge/-Simulink-blue?style=flat&logo=mathworks" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenSim-008080?style=flat&logo=OpenAccess&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Moco-800080?style=flat&logo=CodeIgniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zotero-CC2936?style=flat&logo=zotero&logoColor=white" />
-</p>
+-   Energy-based swing-up control
+-   LQR stabilization
+-   Reinforcement Learning (PPO)
+-   Physics-informed dynamics learning
+-   Uncertainty-aware control
 
-<!--
-## 📊 GitHub Stats  
+The goal is to develop reliable and data-efficient control methods for
+autonomous robotic systems.
 
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhossein-fattahi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-fattahi&layout=compact&theme=tokyonight)  
--->
+------------------------------------------------------------------------
 
-## ☕ Support  
+## 💼 Experience Highlights
 
-If you like my work, consider supporting me:  
+### Research Trainee --- University of Padua
 
-<a href="https://www.buymeacoffee.com/amirhossei6" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-</a>
+Worked on learning-based control algorithms for underactuated robotic
+systems, including simulation, controller design, and evaluation.
+
+### Third-Party Inspection Engineer --- TÜV Rheinland
+
+Participated in industrial inspections and Factory Acceptance Tests
+(FAT), including technical verification, documentation review, and
+reporting of deviations and corrective actions.
+
+### R&D Engineer
+
+Previous experience in industrial automation, IoT-based systems, and
+engineering solutions.
+
+------------------------------------------------------------------------
+
+## 🛠 Languages, Tools, and Technologies
+
+### Programming
+
+Python • MATLAB • C/C++
+
+### Robotics & Simulation
+
+ROS2 • ROS • MuJoCo • Gazebo • Simulink
+
+### Machine Learning
+
+PyTorch • Reinforcement Learning • Neural Networks
+
+### Other Tools
+
+Linux • Git • LaTeX • Jupyter
+
+------------------------------------------------------------------------
+
+## 📌 Featured Projects
+
+### Learning-Based Control of Underactuated Robots
+
+Physics-informed and learning-based approaches for nonlinear robot
+dynamics and control.
+
+### Uncertainty-Aware Physics-Informed Control
+
+Exploring robust control methods by combining learned models with
+uncertainty estimation.
+
+### MPC and Autonomous Navigation
+
+Developing model-based and learning-based approaches for safe autonomous
+systems.
+
+------------------------------------------------------------------------
+
+## 📚 Publications
+
+**IoT-Based Synchronous Sound Distribution System**\
+15th National Conference of Electrical, Computer and Mechanical
+Engineering, 2022.
+
+------------------------------------------------------------------------
+
+## 🌐 Links
+
+-   Website: https://amirhossein-fattahi.github.io
+-   LinkedIn: https://www.linkedin.com/in/ahfattahi/
+-   Email: amirhossein.fattahi98@gmail.com
