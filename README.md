@@ -37,6 +37,18 @@ autonomous robotic systems.
 
 ------------------------------------------------------------------------
 
+## 🎓 Currently Looking For
+
+I am currently exploring PhD opportunities in:
+
+- Robotics
+- Robot Learning
+- Reinforcement Learning
+- Autonomous Systems
+- Learning-Based Control
+
+------------------------------------------------------------------------
+
 ## 💼 Experience Highlights
 
 ### Research Trainee --- University of Padua
